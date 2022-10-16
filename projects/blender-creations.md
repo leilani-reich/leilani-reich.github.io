@@ -57,4 +57,4 @@ A tribute to my cat.
 
 ### Elephant
 
-<img class="ui image" src="../img/blender/Blender-Elephant2.png" height="700" width="800">
+<img class="ui image" src="../img/blender/Elephantv2.png" height="700" width="800">

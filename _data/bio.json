@@ -1,118 +1,157 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Leilani Reich",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://leilani-reich.github.io/img/Profile_Pic.jpg",
+    "email": "reichld@hawaii.edu",
+    "phone": "",
+    "website": "https://leilani-reich.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2023.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawai'i"
+    },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      {
+        "network": "github",
+        "username": "leilani-reich",
+        "url": "http://github.com/leilani-reich"
+      },
+      {
+        "network": "linkedin",
+        "username": "leilani-reich",
+        "url": "http://linkedin.com/in/leilani-reich"
+      }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    {
+      "name": "Data Science",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Software Engineering",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Game Development",
+      "keywords": [
+      ]
+    }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "level": "",
+      "keywords": [
+        "Java",
+        "JavaScript",
+        "Python",
+        "Meteor",
+        "Semantic UI",
+        "HTML",
+        "CSS",
+        "C",
+        "C++",
+        "SQL",
+        "R",
+        "Unity 2D"
+      ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "level": "",
+      "keywords": [
+        "MacOS",
+        "Git/GitHub",
+        "Unix",
+        "Blender"
+      ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2023)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2020-08-24",
       "endDate": "Present",
+      "gpa": "3.87/4.0",
       "courses": [
+        "ICS 314: Software Engineering",
+        "ICS 311: Algorithms",
+        "ICS 235: Machine Learning",
+        "ICS 211: Intro to Computer Science II",
+        "ICS 111: Intro to Computer Science I",
+        "Math 372: Elementary Probability & Statistics",
+        "Math 307: Linear Algebra & Differential Equations",
+        "Math 301: Intro to Discrete Mathematics",
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "University of Hawaii at Manoa",
+      "position": "Assistant TA",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2022-09-05",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Acting as assistant for TA in ICS 211, Intro to Computer Science II (Java).",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Advising students in lab and open office hours weekly."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Manoa Scholar's club",
+      "website": "https://manoascholarsclub.weebly.com/",
+      "position": "Active member",
+      "startDate": "2020-08-24",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
+      "summary": "I take part in volunteer activities including food drives and beach cleanups."
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "UHM Summer Success Scholarship",
+      "date": "Summer 2022",
+      "awarder": "University of Hawai'i at Mānoa College of Natural Sciences",
+      "summary": "Students must be a declared CNS major and have UH Manoa as their home institution for summer 2022 to be eligible."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "UH Manoa Summer First-Year Merit Scholarship",
+      "date": "Summer 2021",
+      "awarder": "University of Hawai'i at Mānoa Outreach College",
+      "summary": "Scholarship awarded to first-years at UH Manoa who have registered for at least three summer credits, have at least 27 credits, and have a minimum overall GPA of 3.5."
+    },
+    {
+      "title": "Manoa Excellence Scholarship",
+      "date": "Fall 2020",
+      "awarder": "University of Hawai'i at Mānoa New Warrior Scholarship Committee",
+      "summary": "Scholarship awarded to a select few incoming non-resident freshmen who have completed high school with a minimum overall GPA of 3.8."
+    },
+    {
+      "title": "Dean's List",
+      "date": "Fall 2020 - Present",
+      "awarder": "UH Manoa Office of the Registrar",
+      "summary": "Award given to undergraduate students who earn a semester GPA of 3.5 or higher based on 12 credits or more and do not receive grades of NC (no credit), W (withdrawn), I(incomplete), or F (failure)."
     }
   ],
   "references": [
     {
-      "name": "Available upon request"
+      "name": "Available upon request",
+      "reference": ""
     }
   ]
 }

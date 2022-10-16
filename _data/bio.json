@@ -6,7 +6,7 @@
     "email": "reichld@hawaii.edu",
     "phone": "",
     "website": "https://leilani-reich.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2023.",
+    "summary": "I am studying for a B.S. in Computer Science (Data Science track) in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2023.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -120,7 +120,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2023)",
+      "area": "Computer Science - Data Science track (expected Spring, 2023)",
       "studyType": "B.S.",
       "startDate": "2020-08-24",
       "endDate": "Present",

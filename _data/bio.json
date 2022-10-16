@@ -39,7 +39,17 @@
       ]
     },
     {
+      "name": "Artificial Intelligence",
+      "keywords": [
+      ]
+    },
+    {
       "name": "Software Engineering",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "3D Modeling",
       "keywords": [
       ]
     },
@@ -51,31 +61,59 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Languages",
       "level": "",
       "keywords": [
         "Java",
-        "JavaScript",
         "Python",
-        "Meteor",
-        "Semantic UI",
-        "HTML",
-        "CSS",
         "C",
         "C++",
-        "SQL",
-        "R",
-        "Unity 2D"
+        "C#",
+        "SQL (MySQL)",
+        "JavaScript",
+        "HTML/CSS",
+        "R"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Frameworks",
+      "level": "",
+      "keywords": [
+        "Meteor",
+        "JUnit",
+        "Semantic UI",
+        "TestCafe",
+        "Plotly Dash"
+      ]
+    },
+    {
+      "name": "Tools",
       "level": "",
       "keywords": [
         "MacOS",
         "Git/GitHub",
+        "Eclipse",
+        "Jupyter Notebook",
+        "IntelliJ",
+        "Node",
+        "VSCode",
         "Unix",
-        "Blender"
+        "vi",
+        "Blender",
+        "Unity2D"
+      ]
+    },
+    {
+      "name": "Libraries",
+      "level": "",
+      "keywords": [
+        "React",
+        "Pandas",
+        "NumPy",
+        "Matplotlib",
+        "Scikit-learn",
+        "Keras",
+        "XGBoost"
       ]
     }
   ],
@@ -88,6 +126,7 @@
       "endDate": "Present",
       "gpa": "3.87/4.0",
       "courses": [
+        "Econ 425: Intro to Econometrics",
         "ICS 314: Software Engineering",
         "ICS 311: Algorithms",
         "ICS 235: Machine Learning",
@@ -95,7 +134,7 @@
         "ICS 111: Intro to Computer Science I",
         "Math 372: Elementary Probability & Statistics",
         "Math 307: Linear Algebra & Differential Equations",
-        "Math 301: Intro to Discrete Mathematics",
+        "Math 301: Intro to Discrete Mathematics"
       ]
     }
   ],

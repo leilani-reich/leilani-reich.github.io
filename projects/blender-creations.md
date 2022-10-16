@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: img/blender-chess_render1-square.png
+image: img/blender/blender-chess_render1-square.png
 title: Blender Creations
 permalink: projects/blender-creations
 # All dates must be YYYY-MM-DD format!

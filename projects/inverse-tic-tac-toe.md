@@ -29,8 +29,12 @@ For this project, I was the only programmer. I wrote the entire program in the E
 From making this inverse Tic-Tac-Toe Game, I learned many things. First off, I learned how to use the graphics interface, paint component method, graphic objects, and mouse events in Java. In addition, I've learned that I need to be really careful with my code and test it effectively, especially in large programs. Just one bug can result in a huge waste of time, which I found out the hard way. Overall, this project taught me that programming requires a lot of time, planning, effort, thought, and problem-solving skills.
 
 Here's my Program in Action!
-<div class="ui embed" data-source="youtube" data-id="8B_nxzSea84" >
+<div class="embed" data-source="youtube" data-id="8B_nxzSea84" >
 </div>
+
+<div class="embed-responsive embed-responsive-16by9">
+<iframe width="560" height="315" src="https://youtube.com/embed/8B_nxzSea84" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+ </div>
 
 
 Image Source: [Pixabay](https://pixabay.com/illustrations/game-tic-tac-toe-play-drawing-944386/)

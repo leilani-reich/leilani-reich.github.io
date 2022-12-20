@@ -1,10 +1,10 @@
 ---
 layout: project
 type: project
-published: false
-image: img/projects/house-price-predictions-square.png
+published: true
+image: img/projects/BeesKnees.png
 title: Bees vs Neonicotinoids
-permalink: projects/house-price-predictions
+permalink: projects/BeesKnees
 # All dates must be YYYY-MM-DD format!
 date: 2022-11-22
 labels:

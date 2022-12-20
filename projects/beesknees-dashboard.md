@@ -6,7 +6,7 @@ image: img/projects/house-price-predictions-square.png
 title: Bees vs Neonicotinoids
 permalink: projects/house-price-predictions
 # All dates must be YYYY-MM-DD format!
-date: 2022-12-19
+date: 2022-11-22
 labels:
   - Data Visualization
   - ICS 484
@@ -51,4 +51,5 @@ populations over time. I also created a counter that would display bee loss and 
 functionality of the timeline so that all the maps and the counter would update with each year. Taking on this project was a new experience, but I learned
 a lot about visualization and Plotly Dash from it.
 
-
+Link to Project: [BeesKnees-GitHub](https://github.com/TheBeesKnees-ICS-484/dashCode)
+Link to Visualization: [BeesKnees-Vis](http://hbzxc.pythonanywhere.com/)

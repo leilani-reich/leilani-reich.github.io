@@ -51,7 +51,7 @@ populations over time. I also created a counter that would display bee loss and 
 functionality of the timeline so that all the maps and the counter would update with each year. Taking on this project was a new experience, but I learned
 a lot about visualization and Plotly Dash from it.
 
-<img class="ui image" src="../img/BeesKnees-Snapshot.jpg" height="800" width="600">
+<img class="ui image" src="../img/projects/BeesKnees-Snapshot.jpg" height="800" width="600">
 
 Link to Project: [BeesKnees-GitHub](https://github.com/TheBeesKnees-ICS-484/dashCode)
 Link to Visualization: [BeesKnees-Vis](http://hbzxc.pythonanywhere.com/)

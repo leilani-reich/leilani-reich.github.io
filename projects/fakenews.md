@@ -1,10 +1,10 @@
 ---
 layout: project
 type: project
-published: false
-image: img/projects/BeesKnees.png
+published: true
+image: img/projects/fakenews-square.png
 title: Analyzing Fake News with a Big Data Mindset
-permalink: projects/BeesKnees
+permalink: projects/FakeNews
 # All dates must be YYYY-MM-DD format!
 date: 2022-12-09
 labels:

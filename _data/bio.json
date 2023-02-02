@@ -129,6 +129,11 @@
       "endDate": "Present",
       "gpa": "3.87/4.0",
       "courses": [
+        "ICS 438: Big Data Analytics",
+        "ICS 461: Artificial Intelligence",
+        "ICS 483: Computer Vision",
+        "ICS 484: Data Visualization",
+        "ICS 390: Computing Ethics for LAs",
         "Econ 425: Intro to Econometrics",
         "ICS 435: Machine Learning Fundamentals",
         "ICS 321: Database Systems I",

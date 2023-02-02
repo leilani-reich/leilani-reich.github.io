@@ -1,12 +1,12 @@
 ---
 layout: project
 type: project
-published: false
+published: true
 image: img/projects/chick.gif
 title: Chick Dance Revolution
 permalink: projects/chick-dance-revolution
 # All dates must be YYYY-MM-DD format!
-date: 2023-02-01
+date: 2023-01-23
 labels:
   - HTML/CSS/JS
   - ICSpark
@@ -16,6 +16,8 @@ summary: I created a simple game about a dancing chicken, complete with instruct
 ## Project Details
 Chick Dance Revolution is my mentor project for [ICSpark](https://icspark.github.io/people.html), a club which provides coding mentorship (specifically web development) to 6th-12th graders.
 This game revolves around a baby chicken, a chick, dancing in time to different music notes, which are represented by arrow keys. I created the game to showcase HTML/CSS/JS skills and give students a fun project to work on and enhance their understanding of web development.
+
+<img class="ui image" src="../img/projects/CDR.png" height="500" width="1000">
 
 ## My Process
 

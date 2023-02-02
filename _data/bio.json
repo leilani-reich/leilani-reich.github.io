@@ -146,26 +146,39 @@
   ],
   "work": [
     {
-      "company": "University of Hawaii at Manoa",
-      "position": "Assistant TA",
+      "company": "HMSA",
+      "position": "Health Data Integration & Analytics Intern",
       "website": "",
-      "startDate": "2022-09-05",
+      "startDate": "2023-01-03",
+      "endDate": "Present",
+      "summary": "Working on healthcare data projects as an intern in the HDI data analytics department.",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "University of Hawaii at Manoa",
+      "position": "Learning Assistant",
+      "website": "",
+      "startDate": "2023-01-10",
       "endDate": "Present",
       "summary": "Acting as assistant for TA in ICS 211, Intro to Computer Science II (Java).",
       "highlights": [
         "Advising students in lab and open office hours weekly."
       ]
+    },
+    {
+      "company": "University of Hawaii at Manoa",
+      "position": "Assistant TA",
+      "website": "",
+      "startDate": "2022-09-05",
+      "endDate": "Present",
+      "summary": "Acted as assistant for TA in ICS 211, Intro to Computer Science II (Java).",
+      "highlights": [
+        "Advised students in lab and open office hours weekly."
+      ]
     }
   ],
   "volunteer": [
-    {
-      "organization": "Manoa Scholar's club",
-      "website": "https://manoascholarsclub.weebly.com/",
-      "position": "Active member",
-      "startDate": "2020-08-24",
-      "endDate": "Present",
-      "summary": "I take part in volunteer activities including food drives and beach cleanups."
-    },
     {
       "organization": "ICSpark",
       "website": "https://icspark.github.io/",
@@ -173,7 +186,15 @@
       "startDate": "2020-09-24",
       "endDate": "Present",
       "summary": "I help tutor 6th-12th grade students in web development with HTML, CSS, and JS."
-    },    
+    },  
+    {
+      "organization": "Manoa Scholar's Club",
+      "website": "https://manoascholarsclub.weebly.com/",
+      "position": "Active Member",
+      "startDate": "2020-08-24",
+      "endDate": "Present",
+      "summary": "I take part in volunteer activities including food drives and beach cleanups."
+    },  
   ],
   "awards": [
     {

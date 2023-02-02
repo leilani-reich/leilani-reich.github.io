@@ -19,20 +19,14 @@ This game revolves around a baby chicken, a chick, dancing in time to different 
 
 ## My Process
 
-In the beginning, I had several ideas on what I wanted my project to be. One thing was for certain though: I wanted to make a game. Eventually, I decided on the topic of dance as it seemed pretty unique and interesting to incorporate.
-Thus, I started out on Chick Dance Revolution. As to why I chose a chick as the main character, what can I say, I like chickens. Anyway, to create the game,
+In the beginning, I had several ideas on what I wanted to do, but one thing was for certain: I wanted to make a game. Eventually, I decided on a dancing game as it seemed pretty unique and interesting to incorporate. Thus, I came up with Chick Dance Revolution. As to why I chose a chick as the main character, what can I say, I like chickens. 
+
+To create the game, I utilized an online IDE named Replit. I started out by creating assets for all the game components. I created most of the assets, such as the chick doing different poses, on my own in [Pixilart](https://www.pixilart.com/draw). Then, I wrote the HTML and CSS, creating elements and giving structure to the game itself. Then, I worked on the JavaScript, making heavy use of event listeners, which would detect an event like a keypress and take action accordingly. Finally, I wrote instructions for how to build my project, specifically the JS section. I provided the HTML and CSS files so that students could just focus on the JS. After writing the instructions, I remade my game following them to make sure everything was clear.
 
 ## What I learned
 
-From making this inverse Tic-Tac-Toe Game, I learned many things. First off, I learned how to use the graphics interface, paint component method, graphic objects, and mouse events in Java. In addition, I've learned that I need to be really careful with my code and test it effectively, especially in large programs. Just one bug can result in a huge waste of time, which I found out the hard way. Overall, this project taught me that programming requires a lot of time, planning, effort, thought, and problem-solving skills.
+From making Chick Dance Revolution, I learned that there's a lot more that can be done with HTML, CSS, and JS than I'd previously thought. Before joining ICSpark, I had only used these languages to build simple webpages, so it was exciting discovering the capabilities of HTML, CSS, and JS. In the future, I plan to utilize these languages further to create things like Chrome Extensions.
 
-Here's my Program in Action!
-<div class="embed" data-source="youtube" data-id="8B_nxzSea84" >
-</div>
+Play Chick Dance Revolution Here:
+https://dancechickrevolution.leilanireich.repl.co/
 
-<div class="embed-responsive embed-responsive-16by9">
-<iframe width="560" height="315" src="https://youtube.com/embed/8B_nxzSea84" allow="autoplay; encrypted-media" allowfullscreen></iframe>
- </div>
-
-
-Image Source: [Pixabay](https://pixabay.com/illustrations/game-tic-tac-toe-play-drawing-944386/)

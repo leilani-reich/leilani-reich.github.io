@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: false
-image: img/projects/Inverse-TTT-project.jpeg
+image: img/projects/chick.gif
 title: Chick Dance Revolution
 permalink: projects/chick-dance-revolution
 # All dates must be YYYY-MM-DD format!

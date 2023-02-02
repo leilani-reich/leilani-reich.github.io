@@ -100,7 +100,9 @@
         "Unix",
         "vi",
         "Blender",
-        "Unity2D"
+        "Unity2D",
+        "Docker",
+        "MicroStrategy"
       ]
     },
     {
@@ -113,7 +115,8 @@
         "Matplotlib",
         "Scikit-learn",
         "Keras",
-        "XGBoost"
+        "XGBoost",
+        "PySpark"
       ]
     }
   ],
@@ -162,7 +165,15 @@
       "startDate": "2020-08-24",
       "endDate": "Present",
       "summary": "I take part in volunteer activities including food drives and beach cleanups."
-    }
+    },
+    {
+      "organization": "ICSpark",
+      "website": "https://icspark.github.io/",
+      "position": "Mentor",
+      "startDate": "2020-09-24",
+      "endDate": "Present",
+      "summary": "I help tutor 6th-12th grade students in web development with HTML, CSS, and JS."
+    },    
   ],
   "awards": [
     {

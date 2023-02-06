@@ -127,7 +127,7 @@
       "studyType": "B.S.",
       "startDate": "2020-08-24",
       "endDate": "Present",
-      "gpa": "3.87/4.0",
+      "gpa": "3.92/4.0",
       "courses": [
         "ICS 438: Big Data Analytics",
         "ICS 461: Artificial Intelligence",
@@ -176,10 +176,10 @@
       "position": "Assistant TA",
       "website": "",
       "startDate": "2022-09-05",
-      "endDate": "Present",
+      "endDate": "2022-12-16",
       "summary": "Acted as assistant for TA in ICS 211, Intro to Computer Science II (Java).",
       "highlights": [
-        "Advised students in lab and open office hours weekly."
+        "Advised students in weekly labs and open office hours."
       ]
     }
   ],
@@ -188,7 +188,7 @@
       "organization": "ICSpark",
       "website": "https://icspark.github.io/",
       "position": "Mentor",
-      "startDate": "2020-09-24",
+      "startDate": "2023-09-24",
       "endDate": "Present",
       "summary": "I help tutor 6th-12th grade students in web development with HTML, CSS, and JS."
     },  

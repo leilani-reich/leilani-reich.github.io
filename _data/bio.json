@@ -1,0 +1,238 @@
+{
+  "basics": {
+    "name": "Leilani Reich",
+    "label": "Student",
+    "picture": "",
+    "email": "",
+    "phone": "",
+    "website": "https://leilani-reich.github.io",
+    "summary": "I am studying for a B.S. in Computer Science (Data Science track) in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2023.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawai'i"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "leilani-reich",
+        "url": "http://github.com/leilani-reich"
+      },
+      {
+        "network": "linkedin",
+        "username": "leilani-reich",
+        "url": "http://linkedin.com/in/leilani-reich"
+      }
+    ]
+  },
+  "interests": [
+    {
+      "name": "Data Science",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Artificial Intelligence",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Software Engineering",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "3D Modeling",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Game Development",
+      "keywords": [
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "level": "",
+      "keywords": [
+        "Java",
+        "Python",
+        "C",
+        "C++",
+        "C#",
+        "SQL (MySQL)",
+        "JavaScript",
+        "HTML/CSS",
+        "R"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "level": "",
+      "keywords": [
+        "Meteor",
+        "JUnit",
+        "Semantic UI",
+        "TestCafe",
+        "Plotly Dash"
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": "",
+      "keywords": [
+        "MacOS",
+        "Git/GitHub",
+        "Eclipse",
+        "Jupyter Notebook",
+        "IntelliJ",
+        "Node",
+        "VSCode",
+        "Unix",
+        "vi",
+        "Blender",
+        "Unity2D",
+        "Docker",
+        "MicroStrategy"
+      ]
+    },
+    {
+      "name": "Libraries",
+      "level": "",
+      "keywords": [
+        "React",
+        "Pandas",
+        "NumPy",
+        "Matplotlib",
+        "Scikit-learn",
+        "Keras",
+        "XGBoost",
+        "PySpark"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science - Data Science track (expected Spring, 2023)",
+      "studyType": "B.S.",
+      "startDate": "2020-08-24",
+      "endDate": "Present",
+      "gpa": "3.92/4.0",
+      "courses": [
+        "ICS 438: Big Data Analytics",
+        "ICS 461: Artificial Intelligence",
+        "ICS 483: Computer Vision",
+        "ICS 484: Data Visualization",
+        "ICS 390: Computing Ethics for LAs",
+        "Econ 425: Intro to Econometrics",
+        "ICS 435: Machine Learning Fundamentals",
+        "ICS 321: Database Systems I",
+        "ICS 212: Program Structure (C/C++)",
+        "ICS 314: Software Engineering",
+        "ICS 311: Algorithms",
+        "ICS 235: Machine Learning",
+        "ICS 211: Intro to Computer Science II",
+        "ICS 111: Intro to Computer Science I",
+        "Math 372: Elementary Probability & Statistics",
+        "Math 307: Linear Algebra & Differential Equations",
+        "Math 301: Intro to Discrete Mathematics"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "HMSA",
+      "position": "Health Data Integration & Analytics Intern",
+      "website": "",
+      "startDate": "2023-01-03",
+      "endDate": "Present",
+      "summary": "Working on healthcare data projects as an intern in the HDI data analytics department.",
+      "highlights": [
+        "Developing knowledge of healthcare industry.",
+        "Contributing to projects for different business units."
+      ]
+    },
+    {
+      "company": "University of Hawaii at Manoa",
+      "position": "Learning Assistant",
+      "website": "",
+      "startDate": "2023-01-10",
+      "endDate": "Present",
+      "summary": "Acting as assistant for TA in ICS 211, Intro to Computer Science II (Java).",
+      "highlights": [
+        "Advising students in lab and open office hours weekly."
+      ]
+    },
+    {
+      "company": "University of Hawaii at Manoa",
+      "position": "Assistant TA",
+      "website": "",
+      "startDate": "2022-09-05",
+      "endDate": "2022-12-16",
+      "summary": "Acted as assistant for TA in ICS 211, Intro to Computer Science II (Java).",
+      "highlights": [
+        "Advised students in weekly labs and open office hours."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "ICSpark",
+      "website": "https://icspark.github.io/",
+      "position": "Mentor",
+      "startDate": "2022-09-24",
+      "endDate": "Present",
+      "summary": "I help tutor 6th-12th grade students in web development with HTML, CSS, and JS."
+    },  
+    {
+      "organization": "Manoa Scholar's Club",
+      "website": "https://manoascholarsclub.weebly.com/",
+      "position": "Active Member",
+      "startDate": "2020-08-24",
+      "endDate": "Present",
+      "summary": "I take part in volunteer activities including food drives and beach cleanups."
+    },  
+  ],
+  "awards": [
+    {
+      "title": "UHM Summer Success Scholarship",
+      "date": "Summer 2022",
+      "awarder": "University of Hawai'i at Mānoa College of Natural Sciences",
+      "summary": "Students must be a declared CNS major and have UH Manoa as their home institution for summer 2022 to be eligible."
+    },
+    {
+      "title": "UH Manoa Summer First-Year Merit Scholarship",
+      "date": "Summer 2021",
+      "awarder": "University of Hawai'i at Mānoa Outreach College",
+      "summary": "Scholarship awarded to first-years at UH Manoa who have registered for at least three summer credits, have at least 27 credits, and have a minimum overall GPA of 3.5."
+    },
+    {
+      "title": "Manoa Excellence Scholarship",
+      "date": "Fall 2020",
+      "awarder": "University of Hawai'i at Mānoa New Warrior Scholarship Committee",
+      "summary": "Scholarship awarded to a select few incoming non-resident freshmen who have completed high school with a minimum overall GPA of 3.8."
+    },
+    {
+      "title": "Dean's List",
+      "date": "Fall 2020 - Present",
+      "awarder": "UH Manoa Office of the Registrar",
+      "summary": "Award given to undergraduate students who earn a semester GPA of 3.5 or higher based on 12 credits or more and do not receive grades of NC (no credit), W (withdrawn), I (incomplete), or F (failure)."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request",
+      "reference": ""
+    }
+  ]
+}

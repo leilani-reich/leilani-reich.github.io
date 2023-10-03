@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Analyzing Fake News with a Big Data Mindset | Leilani Reich | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Leilani Reich | Professional Portfolio">
+    <meta property="og:url" content="https://leilani-reich.github.io/projects/FakeNews">
+    <meta property="og:title" content="Analyzing Fake News with a Big Data Mindset | Leilani Reich | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/default.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Analyzing Fake News with a Big Data Mindset | Leilani Reich | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Leilani Reich</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Analyzing Fake News with a Big Data Mindset</h1>
+ <h2 id="introduction">Introduction</h2>
+<p>In this project, I analyzed data regarding fake news posts to learn more about the data, gain insights into fake news, get more familiar with distributed
+processing (analyzing data in parallel with multiple machines that split the work), and to see how well I could classify fake news. I utilized GitHub,
+the Jupyter Notebook IDE, the Docker platform, and Python. In addition, for handling data, I mostly utilized the distributed processing library called 
+<a href="https://spark.apache.org/docs/latest/api/python/">PySpark</a>, and I also dipped my toes into another Python library enabling parallel processing called <a href="https://www.dask.org/">Dask</a>.</p>
+
+<h2 id="dataset">Dataset</h2>
+<p>The dataset I used is titled <a href="https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset?select=True.csv">“Fake and real news dataset,”</a> and it originates from user
+Clément Bisaillon on <a href="https://www.kaggle.com/">Kaggle</a>. Within this dataset, there are two data files: Fake.csv (62.79 MB) and True.csv (53.58 MB). 
+Each data file contains the following 4 attributes for each record: title, the title of the article; text, the text within the article; subject, the subject
+of the article; and date, the date at which the article was posted.</p>
+
+<h2 id="problems-i-tackled">Problems I tackled</h2>
+<p>There were several things I investigated in my analysis. I looked into fake news and analyzed several characteristics that set it apart from true news, 
+such as length, subjects, dates, and prominent words. I also used an algorithm called approximate nearest neighbors to try and accurately classify news
+as fake or true based on similarity to other news posts.</p>
+
+<h2 id="what-i-learned">What I learned</h2>
+<p>I’ve learned several things from my project. First off, fake news is more wordy than true news, which was what I expected. With fake news, people can spew
+a lot of nonsense and run on and on, but true news is generally more concise. In addition, the true news posts were more prevalent in the 2017
+September-December period whereas fake news was more prominent in the 2016 summer period, specifically May, which was interesting to see. I think fake news 
+is more prominent in 2016 due to the 2016 presidential election. Another discovery I made was that the main topics of both fake and true news tend to be politics
+or just general news. Speaking of which, I found that the most frequent words in both the fake news and true news datasets relate to politics, with keywords like
+“trump”, “america”, and “hillary”, which is sensible, especially considering this data comes from the 2016-2017 period. In regards to the models, I discovered it
+is viable to use an approximate nearest neighbors approach to classify a news post as true or fake based on its similarity to other news posts, and that autofaiss
+does it quickly and efficiently compared to another algorithm from the PySpark library called BucketedRandomProjectionLSH, at least the way I approached it.
+In the end, from this project I learned more about distributed computing with PySpark and applying the concepts in the class ICS 438: Big Data Analytics. In the future,
+I hope to get better at distributed computing and parallelization and understanding how to work with it because I struggled a lot with this area, and I know there is some
+code in this project that could be improved in terms of efficiency.</p>
+
+<p>Link to Project: <a href="https://github.com/leilani-reich/ICS438-FinalProject-FakeNews">FakeNews-GitHub</a></p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
